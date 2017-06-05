@@ -1,11 +1,9 @@
 ﻿using System;
 
-class Problem01
+class Problem02
 {
     static void Main()
     {
-        
 
     }
 }
-

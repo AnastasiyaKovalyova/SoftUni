@@ -1,1 +1,2 @@
 c:\users\asus\documents\visual studio 2015\Projects\GitHub_Exercise\GitHub_Exercise\bin\Debug\GitHub_Exercise.exe.config
+C:\Users\Asus\Documents\visual studio 2015\Projects\SoftUni\GitHub_Exercise\GitHub_Exercise\bin\Debug\GitHub_Exercise.exe.config
