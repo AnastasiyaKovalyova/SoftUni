@@ -6,6 +6,7 @@ class Problem01
     {
 
         Console.WriteLine("Hello Git");
+        Console.WriteLine();
     }
 }
 
